@@ -164,3 +164,63 @@ footer {
     margin-top: 13.49px;
     margin-left: 11.56px;
 }
+
+/*card 2*/
+
+.body_card2 {
+    background-color: rgb(202, 202, 202);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container_card2 {
+    background-color: white;
+    width: 166.4px;
+    height: 302.18px;
+    display: flex;
+    flex-direction: column;
+}
+
+.img1_thumb2 {
+ width: 166.4px;
+ height: 193.87px;
+}
+
+.contenido_card2 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 8.72px;
+    margin-right: 8.72px;
+}
+
+.minidiv_card2 {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 15.25px;
+}
+
+.divimg_card2 {
+    display: flex;
+    align-items: center;
+    width: 100.17px;
+    height: 22.76px;
+}
+
+.icono1_thumb2 {
+    width: 22.52px;
+    height: 22.76px;
+}
+
+.h1_card2 {
+    font-size: 14.13px;
+}
+
+.p_card2 {
+    font-size: 15px;
+    margin: 0;
+}
+
+.from_card2 {
+    display: flex;
+}
