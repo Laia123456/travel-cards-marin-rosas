@@ -224,3 +224,23 @@ footer {
 .from_card2 {
     display: flex;
 }
+
+/*card 3*/
+
+.body_card3 {
+    background-color: rgb(202, 202, 202);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container_card3 {
+    width: 166.4px;
+    height: 302.18px;
+    display: flex;
+    flex-direction: column;
+}
+
+.fondo_card3 {
+    background-repeat: no-repeat;
+}
