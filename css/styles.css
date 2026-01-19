@@ -244,3 +244,76 @@ footer {
 .fondo_card3 {
     background-repeat: no-repeat;
 }
+
+/*card 4*/
+
+.body_card4 {
+    background-color: rgb(202, 202, 202);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container_card4 {
+    background-color: white;
+    width: 379.37px;
+    height: 125.17px;
+    display: flex;
+}
+
+.icono_card4 {
+    width: 57.16;
+    height: 57.16;
+    margin-top: 34.04px;
+    margin-left: 29.54px;
+}
+
+.contenido_card4 {
+    margin-left: 29.54px;
+    margin-top: 21.84px;
+    display: flex;
+    flex-direction: column;
+}
+
+.h1_card4 {
+    font-size: 15.41px;
+}
+
+.p_card4 {
+    font-size: 9px;
+    margin: 0;
+    margin-bottom: 5px;
+    margin-top: 2px;
+}
+
+.botones_card4 {
+    
+}
+
+.buton1_card4 {
+    width: 134.8px;
+    height: 26.96px;
+    color: #757575;
+    background-color: white;
+    border-radius: 2.57px;
+    border-color: #757575;
+}
+
+.buton2_card4 {
+    width: 89.92px;
+    height: 26.97px;
+    color: white;
+    background-color: #00AEFF;
+    border-radius: 2.57px;
+    border: none;
+}
+
+.p_butons_card4 {
+    margin: 0;
+}
+
+.icono2_card4 img {
+    width: 7.71px;
+    margin-top: 13.49px;
+    margin-left: 11.56px;
+}
